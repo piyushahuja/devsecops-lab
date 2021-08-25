@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: aws
+  checksum: 8288731619da586697587667de5627d235acb9e0ab8aa45d514793ab92e64ae4
